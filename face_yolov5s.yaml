@@ -1,0 +1,8 @@
+train: /content/drive/MyDrive/YOLOv5_Face_detection/face_data/face_data/train  # 128 images
+val: /content/drive/MyDrive/YOLOv5_Face_detection/face_data/face_data/val  # 128 images
+
+# number of classes
+nc: 3
+
+# class names
+names: ['mask_face', 'face', 'background']
